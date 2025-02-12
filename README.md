@@ -10,12 +10,6 @@ My Techs
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=python" height="45" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
   <img width="12" />
 
